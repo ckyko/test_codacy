@@ -1,0 +1,10 @@
+**/.DS_Store
+.idea
+*.swp
+.vscode
+node_modules
+.npmrc
+.coverage
+htmlcov
+daffy-cobertura.xml
+__pycache__
